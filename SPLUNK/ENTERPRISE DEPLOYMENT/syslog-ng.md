@@ -1,3 +1,5 @@
+***This lab component is an extension of Splunk Enterprise Deployment Lab***
+
 $${{\color{Goldenrod}\Huge{\textsf{  Setting \ Up\ a\ Syslog\ Server \}}}}\$$
 
 $${{\color{Goldenrod}\Huge{\textsf{  Components \}}}}\$$
